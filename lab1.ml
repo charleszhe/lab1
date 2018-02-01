@@ -113,6 +113,13 @@ correspond to. Check it with a member of the course staff if you'd
 like.
 ......................................................................*)
 
+|
+|
+-
+^
+/ \
+/   \
+5     3
 
 (*======================================================================
 Part 2: Types and type inference
